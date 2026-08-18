@@ -83,5 +83,6 @@ ros2 launch autopatrol_robot autopatrol.launch.py
 
 - [fishros](https://github.com/fishros)
 - [Jowee](https://github.com/Wei95Zhou)
+- me
 
 Ctrl + Shift + V 进行预览
